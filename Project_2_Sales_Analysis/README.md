@@ -1,8 +1,5 @@
-Project_2_Sales_Analysis
-
-
-## The questions about this dataset:
-*** 
+<h1> Project 2 - Sales Analysis </h1>
+<p> I analyze a e-commerce sales datset with Python to respond to the following questions:</p>
 
 1) What were the best months of sales?
 
