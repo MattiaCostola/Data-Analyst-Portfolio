@@ -1,7 +1,7 @@
 <h1> Project 1 - Movies Correlation </h1>
 <p> I analyze a movie datset with Python to respond to the following questions:</p>
 
-<ul>Correlations</ul>
+<ul>Correlations:</ul>
 
 <li> 1) Does higher budget mean higher revenue? </li> 
 
@@ -11,7 +11,7 @@
 
 <p></p>
 
-<ul> Other Questions</ul>
+<ul> Other Questions:</ul>
 
 <li> 4) How many movies in the dataset, and from which year? </li> 
 
