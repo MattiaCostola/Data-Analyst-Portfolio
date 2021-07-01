@@ -1,8 +1,3 @@
-ul {
-  text-decoration= underline;
-}
-
-
 <h1> Project 1 - Movies Correlation </h1>
 <p> I analyze a movie datset with Python to respond to the following questions:</p>
 
