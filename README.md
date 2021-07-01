@@ -14,5 +14,5 @@ helped me learn about data analysis. The specialization was made up of 8 differe
 - Data Analysis with R Programming
 - Google Data Analytics Capstone: Complete a Case Study
 
-In addition to SQL and R, I also learned Python for data Analysis which is now my favorite tool when it comes to data analysis.
+In addition to SQL and R, I also learned Python for data Analysis which is now my favorite tool when it comes to getting information from a dataset
 
